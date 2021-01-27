@@ -1,6 +1,6 @@
 ### **install**
 ```bash
-pip install .
+pip install git+https://github.com/dashmote/bprint.git
 ```
 
 ### **usage**
