@@ -12,6 +12,7 @@ from bprint import bprint as print
 bprint(content, text_color = None, text_format = None, tag = None)
 ```
 **text_color** will accept:
+
 	* purple
 	* cyan
 	* darkcyan
