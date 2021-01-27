@@ -12,15 +12,15 @@ from bprint import bprint as print
 print(content, text_color = None, text_format = None, tag = None)
 ```
 **text_color** will accept:
-
-	* purple
+<ul>
+	<li style="color:purple">purple</li>
 	* cyan
 	* darkcyan
 	* blue
 	* green
 	* yellow
 	* red
-
+</ul>
 **text_format** will accept:
 
 	* bold
