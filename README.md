@@ -12,17 +12,17 @@ from bprint import bprint as print
 bprint(content, text_color = None, text_format = None, tag = None)
 ```
 **text_color** will accept:
-	- purple
-	- cyan
-	- darkcyan
-	- blue
-	- green
-	- yellow
-	- red
+	* purple
+	* cyan
+	* darkcyan
+	* blue
+	* green
+	* yellow
+	* red
 
 **text_format** will accept:
-	- bold
-	- underline
+	* bold
+	* underline
 
 **tag** will be printed in uppercase in square brackets before content.
 
