@@ -12,19 +12,19 @@ from bprint import bprint as print
 print(content, text_color = None, text_format = None, tag = None)
 ```
 **text_color** will accept:
-<ul>
-	<li style="color:purple">purple</li>
-	* cyan
-	* darkcyan
-	* blue
-	* green
-	* yellow
-	* red
-</ul>
+
+	- purple
+	- cyan
+	- darkcyan
+	- blue
+	- green
+	- yellow
+	- red
+
 **text_format** will accept:
 
-	* bold
-	* underline
+	- bold
+	- underline
 
 **tag** will be printed in uppercase in square brackets ([]) before content.
 
