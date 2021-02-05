@@ -6,9 +6,6 @@ pip install git+https://github.com/dashmote/bprint.git
 ### **Usage**
 ```python
 from bprint import bprint as print
-
-## or on jupyter-hub notebook use
-from bprint.bprint import bprint as print
 ```
 
 ```python
